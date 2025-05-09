@@ -1,2 +1,21 @@
 \babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{\numberline {1}Einleitung und Grundprinzipien der Magie}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Der Geburtskristall}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Die magische Schöpfung}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Die Unzerstörbarkeit der Seele}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Das Ritual der Erhebung}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Der Atem des Kosmos}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Der Ozean des Aethers}{3}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Die Adern der Welt}{3}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Die eherne Regel der Zeit}{4}{section.1.8}%
+\contentsline {chapter}{\numberline {2}Magieanwendung für Jedermann}{6}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Magische Spezialisierungen und Traditionen}{7}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Die Götter und ihre Magie}{8}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Magische Phänomene und Gefahren}{9}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Magische Regeln und Mechaniken}{10}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Der Geburtskristall im Detail (Erweiterte Regeln)}{11}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Wo kommt die Magie her?}{11}{section.7.1}%
+\contentsline {chapter}{\numberline {8}Akademien der arkanen Formeln}{12}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Kristall}{13}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Zauber}{14}{chapter.10}%
 \contentsfinish 
