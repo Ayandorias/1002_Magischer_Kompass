@@ -1,0 +1,110 @@
+\documentclass[10pt,a4paper,twocolumn,openany]{book}
+%\documentclass[12pt,a4paper,openany]{book}
+\usepackage[bg-full]{lib/rpg-book}
+\usepackage{lipsum}
+%\usepackage{makeidx}
+\usepackage{glossaries}
+\usepackage[toc,page]{appendix}
+\usepackage{booktabs}
+\RequirePackage{titletoc}
+\usepackage[ngerman]{babel}
+\usepackage{wrapfig}
+\usepackage{imakeidx}
+\usepackage{etoolbox}
+
+%\usepackage[frame,width=216truemm,height=303truemm,center]{crop}/home/heresy/Privat/Projekte/Rollenspiel - Nebenwelten/Publikationen/0001_Quellenbände/999_Charaktertagebuch/lib
+
+\usepackage{tikz}
+\usetikzlibrary{mindmap, trees}
+
+
+\makeindex
+
+\renewcommand{\chaptername}{Kapitel}
+\renewcommand{\contentsname}{Inhaltsverzeichnis}
+\setlength{\headheight}{15pt}
+\addtolength{\topmargin}{-15pt}
+
+
+% Start document
+\begin{document}
+	
+\input{Misc/version.tex}
+\frontmatter
+
+
+\rpgMakeCover[
+image = Bilder/cover,
+%logo = ,%Regelwerk/Bilder/Logo/logo,
+title = "", %Kernregelwerk,
+subtitle =
+]
+
+\cleardoublepage
+
+{
+	\onecolumn
+	%\thispagestyle{empty}
+	%Nun stellen wir eine kleinere Schriftgröße ein, setzen den Absatzeinzug auf Null und dafür den Absatzabstand auf eine Leerzeile. Das ermöglicht es uns, die verschiedenen Blöcke des Impressums einfach als Absätze zu schreiben, und wir müssen nicht jedesmal einen manuellen Abstand dazwischen einfügen.
+	
+	\footnotesize
+	\setlength{\parindent}{0pt}
+	\setlength{\parskip}{\baselineskip}
+%	Das Impressum soll am unteren Seitenende ausgerichtet werden, allerdings können wir dieses Mal nicht \vfill benutzen, da es als Abkürzung für \vspace{\fill} am Seitenbeginn ignoriert würde.
+
+	
+	\vspace*{1cm}
+	
+	%Die Angaben setzen wir in Blöcken/Absätzen, deren Zeilen wir mit \\ trennen.
+	\begin{center}
+	\fontsize{50}{50}\steamfont{Impresum}	
+	
+	\vspace*{2cm}
+	
+	\steamfont{\Huge Author}\\
+	Bruno Pierucki
+	
+	\vspace*{1cm}
+	
+	\steamfont{\Huge Covermotiv}\\
+	KI gneriert
+	
+	\vspace*{1cm}
+	
+	\steamfont{\Huge Innenillustrationen}\\
+	KI gneriert
+	
+	\vspace*{1cm}
+	
+	\steamfont{\Huge Satz und Layout}\\
+	Bruno Pierucki
+	
+	\vspace*{1cm}
+	
+%	\steamfont{\Huge Helfer}\\
+%	Carschti, Jörg und Lars	
+	\vspace*{\fill}
+	
+	\input{lib/templates/copyright.tex}	
+	
+	\end{center}
+	
+	\twocolumn
+}
+
+\tableofcontents
+
+\mainmatter
+\cleardoublepage
+
+
+
+\rpgMakeMap[
+image = Bilder/cover%,
+%logo = img/logo,
+%title = Basisregelwerk,
+%subtitle = 
+]
+
+
+\end{document}
