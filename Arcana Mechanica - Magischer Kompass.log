@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (TeX Live 2026/dev/Arch Linux)  (format=lualatex 2025.3.23)  18 APR 2025 23:30
+This is LuaHBTeX, Version 1.22.0 (TeX Live 2026/dev/Arch Linux)  (format=lualatex 2025.3.23)  9 MAY 2025 20:35
  restricted system commands enabled.
 **"Arcana Mechanica - Magischer Kompass.tex"
 ("./Arcana Mechanica - Magischer Kompass.tex"
@@ -1610,14 +1610,61 @@ Package luatex.def Info: lib/book/img/footerscroll_1000.pdf  used on input line
 
 ]
 
-File: Bilder/cover.png Graphic file (type png)
-<use Bilder/cover.png>
-Package luatex.def Info: Bilder/cover.png  used on input line 107.
-(luatex.def)             Requested size: 614.61877pt x 862.16583pt.
+
+
+File: Bilder/Background/background.png Graphic file (type png)
+<use Bilder/Background/background.png>
+Package luatex.def Info: Bilder/Background/background.png  used on input line 1
+17.
+(luatex.def)             Requested size: 614.63092pt x 862.17552pt.
+File: Bilder/Background/background.png Graphic file (type png)
+<use Bilder/Background/background.png>
+Package luatex.def Info: Bilder/Background/background.png  used on input line 1
+17.
+(luatex.def)             Requested size: 614.63092pt x 862.17552pt.
+File: Bilder/Background/background.png Graphic file (type png)
+<use Bilder/Background/background.png>
+Package luatex.def Info: Bilder/Background/background.png  used on input line 1
+17.
+(luatex.def)             Requested size: 614.63092pt x 862.17552pt.
+File: lib/book/img/footerscroll_1000.pdf Graphic file (type pdf)
+<use lib/book/img/footerscroll_1000.pdf>
+Package luatex.def Info: lib/book/img/footerscroll_1000.pdf  used on input line
+ 117.
+(luatex.def)             Requested size: 597.50787pt x 35.11758pt.
 [1
 
 
 
+
+
+Missing character: There is no Ü (U+00DC) in font nullfont!
+Missing character: There is no b (U+0062) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no b (U+0062) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no f (U+0066) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no g (U+0067) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+]
+
+File: Bilder/cover.png Graphic file (type png)
+<use Bilder/cover.png>
+Package luatex.def Info: Bilder/cover.png  used on input line 117.
+(luatex.def)             Requested size: 614.61877pt x 862.16583pt.
+[2
 
 ] ("./Arcana Mechanica - Magischer Kompass.aux")
  ***********
@@ -1630,23 +1677,24 @@ has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 42926 strings out of 475506
+ 42950 strings out of 475506
  100000,1977958 words of node,token memory allocated
  1629 words of node memory still in use:
    32 hlist, 2 vlist, 14 rule, 5 glue, 4 kern, 1 glyph, 89 attribute, 109 glue_s
 pec, 83 attribute_list, 4 write, 24 pdf_literal, 24 pdf_colorstack nodes
    avail lists: 1:1,2:1252,3:285,4:27,5:86,6:36,7:1186,8:2,9:343,10:7,11:62
- 64715 multiletter control sequences out of 65536+600000
+ 64726 multiletter control sequences out of 65536+600000
  43 fonts using 2135183 bytes
  131i,18n,127p,2414b,1039s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<./lib/book/fonts/Controwell-Italic.otf></usr/share/texmf-dist/fonts/opentype/pu
-blic/lm/lmroman12-regular.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lm
-roman8-regular.otf><./lib/book/fonts/Steamwreck.otf>
-Output written on Arcana Mechanica - Magischer Kompass.pdf (5 pages, 19402154 by
+</usr/share/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><./lib/boo
+k/fonts/Controwell-Italic.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lm
+roman12-regular.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmroman8-reg
+ular.otf><./lib/book/fonts/Steamwreck.otf>
+Output written on Arcana Mechanica - Magischer Kompass.pdf (6 pages, 19405785 by
 tes).
 
-PDF statistics: 102 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 131072)
+PDF statistics: 113 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 131072)
  256 words of extra memory for PDF output out of 10000 (max. 100000000)
 
